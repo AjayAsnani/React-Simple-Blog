@@ -1,0 +1,33 @@
+/* Jobs.css */
+
+.jobs-container {
+  margin: 20px;
+  padding: 20px;
+  background-color: #d3d3d3;
+  width: 350px;
+  height: 1350px;
+}
+
+.job {
+  margin-bottom: 20px;
+  padding: 10px;
+  background-color: #ffffff;
+}
+
+.job h3 {
+  margin: 0;
+}
+
+.job-description {
+  margin: 10px 0;
+}
+
+.job-image {
+  width: 100%;
+  max-width: 300px;
+  height: auto;
+}
+
+.job-last-date {
+  font-style: italic;
+}

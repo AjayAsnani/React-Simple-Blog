@@ -1,0 +1,31 @@
+.news-component {
+  padding: 20px;
+}
+
+/* .news-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+} */
+
+.news-subcomponent {
+  width: 300px;
+  margin-bottom: 20px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.news-heading {
+  margin-top: 0;
+}
+
+.news-paragraph {
+  margin-bottom: 0;
+}
+
+.news-logo {
+  width: 220px;
+  height: 170px;
+  margin-bottom: 7px;
+}

@@ -1,0 +1,33 @@
+/* Events.css */
+
+.events-container {
+  margin: 20px;
+  padding: 20px;
+  background-color: #d3d3d3;
+  width: 350px;
+}
+
+.event {
+  margin-bottom: 20px;
+  padding: 10px;
+  background-color: #ffffff;
+}
+
+.event h3 {
+  margin: 0;
+}
+
+.event-description {
+  margin: 10px 0;
+}
+
+.event-image {
+  width: 100%;
+  max-width: 300px;
+  height: auto;
+  margin-top: 10px;
+}
+
+.event-date {
+  font-style: italic;
+}
